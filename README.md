@@ -1,1 +1,63 @@
-# TanatB
+# Hi, I'm Tanat 👋
+
+**Data Engineer** based in Thailand 🇹🇭
+
+I build data pipelines, lakehouse architectures, and analytics platforms. 
+Currently focused on cloud-native data engineering with PySpark, Kafka, and Delta Lake.
+
+---
+
+## 🛠 Tech Stack
+
+**Data Engineering**
+```
+Apache Airflow • PySpark • Apache Kafka • Delta Lake • dbt
+```
+
+**Cloud & Infrastructure**
+```
+AWS (S3, Glue, EMR) • GCP (BigQuery) • Docker • Terraform
+```
+
+**Databases & Storage**
+```
+PostgreSQL • Delta Lake • Apache Iceberg
+```
+
+**Languages**
+```
+Python • SQL
+```
+
+---
+
+## 🚀 Featured Projects
+
+### [Real-Time E-Commerce Lakehouse](https://github.com/USERNAME/ecommerce-lakehouse)
+End-to-end lakehouse platform processing streaming e-commerce data through medallion architecture.
+- **Stack:** PySpark, Kafka, Delta Lake, Airflow, AWS
+- **Features:** Real-time ingestion, data quality checks, star schema modeling
+
+### [Weather ETL Pipeline](https://github.com/USERNAME/weather-etl)
+Automated weather data pipeline with medallion architecture.
+- **Stack:** Airflow, Docker, PostgreSQL, Python
+- **Features:** Daily orchestration, data validation, incremental loading
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---
+
+*Currently seeking Data Engineer opportunities in Thailand* 🔍
