@@ -47,9 +47,9 @@ Automated weather data pipeline with medallion architecture.
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanatB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanatB&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -60,6 +60,5 @@ Automated weather data pipeline with medallion architecture.
 
 ---
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TanatB&theme=tokyonight&hide_border=true)
 
 *Currently seeking Data Engineer opportunities in Thailand* 🔍
