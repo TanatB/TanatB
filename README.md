@@ -47,7 +47,7 @@ Automated weather data pipeline with medallion architecture.
 
 ## 📊 GitHub Activity
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=TanatB&theme=tokyonight&hide_border=true)
 
 ---
 
