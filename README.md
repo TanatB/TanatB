@@ -33,12 +33,12 @@ Python • SQL
 
 ## 🚀 Featured Projects
 
-### [Real-Time E-Commerce Lakehouse](https://github.com/USERNAME/ecommerce-lakehouse)
+### [Real-Time E-Commerce Lakehouse](https://github.com/TanatB/realtime-eCommerce-lakehouse)
 End-to-end lakehouse platform processing streaming e-commerce data through medallion architecture.
 - **Stack:** PySpark, Kafka, Delta Lake, Airflow, AWS
 - **Features:** Real-time ingestion, data quality checks, star schema modeling
 
-### [Weather ETL Pipeline](https://github.com/USERNAME/weather-etl)
+### [Weather ETL Pipeline](https://github.com/TanatB/sql-data-warehouse-project)
 Automated weather data pipeline with medallion architecture.
 - **Stack:** Airflow, Docker, PostgreSQL, Python
 - **Features:** Daily orchestration, data validation, incremental loading
@@ -53,8 +53,8 @@ Automated weather data pipeline with medallion architecture.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanat-metmaolee/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanatb.th@gmail.com)
 
 ---
 
