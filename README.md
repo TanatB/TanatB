@@ -60,4 +60,6 @@ Automated weather data pipeline with medallion architecture.
 
 ---
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true)
+
 *Currently seeking Data Engineer opportunities in Thailand* 🔍
